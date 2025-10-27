@@ -14,9 +14,13 @@ body {
     color:#e50914
 }
 p {
-    color:aliceblue;
+    color: aliceblue;
     text-align: center;
-    gap: 20px;
+    font-size: 16px;
+    line-height: 1.5;
+    margin: 15px auto;
+    max-width: 800px;
+    padding: 0 20px;
 }
 .MsgT {
     font-family:Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
@@ -28,4 +32,19 @@ p {
 }
 h5{
     color: #e50914;
+}
+.buttonn {
+
+    align-items: center;
+    gap: 10px;
+    flex-wrap: wrap;
+}
+button {
+    margin: 5px;
+    padding: 10px 20px;
+    cursor: pointer;
+}
+button:hover {
+    background-color: #e50914;
+    color: #ffffff;
 }
