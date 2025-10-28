@@ -43,6 +43,13 @@ button {
     margin: 5px;
     padding: 10px 20px;
     cursor: pointer;
+    background-color: #ffffff;
+    color: #e50914;
+    border: none;
+    border-radius: 5px; 
+    font-size: 16px;
+    font-family: "Bebas Neue", sans-serif;
+    
 }
 button:hover {
     background-color: #e50914;
@@ -51,4 +58,12 @@ button:hover {
 .card-text{
     color: aliceblue;
     font-family: "bebas neue", sans-serif;
+    font-size: 20px;
+    text-align: center;
+
+
+}
+.card-img-top{
+    height: 800px;
+    /* object-fit: cover; */
 }
