@@ -44,3 +44,9 @@ p, h3{
 .vermelho {
     color:#e50914
 }
+.tops{
+    color: aliceblue;
+    text-align: center;
+    margin-top: 5px;
+    font-family: "Bebas Neue", sans-serif;
+}

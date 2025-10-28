@@ -23,7 +23,7 @@ p {
     padding: 0 20px;
 }
 .MsgT {
-    font-family:Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    font-family:"Bebas Neue", sans-serif;
     font-size: 50px;
     color: #e50914;
     text-align: center;
@@ -47,4 +47,8 @@ button {
 button:hover {
     background-color: #e50914;
     color: #ffffff;
+}
+.card-text{
+    color: aliceblue;
+    font-family: "bebas neue", sans-serif;
 }
